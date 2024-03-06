@@ -27,7 +27,5 @@ To uninstall the *Quanser SDK for Windows*, select `Uninstall` via the `Apps & F
 
 
 
-For additional information about the *Quanser SDK*, including Quanser API's, examples and documentation, refer to:
-
-https://github.com/quanser/quanser_sdk
+For additional information about the *[Quanser SDK](https://github.com/quanser/quanser_sdk)*, including Quanser API's, examples and documentation, refer to https://github.com/quanser/quanser_sdk .
 
