@@ -21,6 +21,8 @@ The *Quanser SDK for Windows* supports the following Quanser devices and data ac
 
 Currently supported Microsoft Windows systems include 64-bit Windows 10 and Windows 11 running on any x64-compatible CPU (e.g., PC).
 
+Please note that if [Quanser QUARC](https://www.quanser.com/products/quarc-real-time-control-software/) is already installed, the *Quanser SDK for Windows* is not needed.
+
 To install the *Quanser SDK for Windows*, run the provided `install_quanser_sdk.exe` installer.
 
 To uninstall the *Quanser SDK for Windows*, select `Uninstall` via the `Apps & Features` dialog (under Windows 10), or the `Installed apps` dialog (under Windows 11).
