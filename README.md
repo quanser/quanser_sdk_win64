@@ -2,9 +2,7 @@
 
 This repository contains the *Quanser SDK for Windows* installer, aimed at the 64-bit Microsoft Windows operating system. 
 
-The [Quanser SDK](https://github.com/quanser/quanser_sdk) provides device drivers together with hardware interfacing, communication and vision libraries for aiding in application software development using Quanser hardware and virtual experiments.
-
-
+The [Quanser SDK](https://github.com/quanser/quanser_sdk) facilitates application software development using Quanser hardware and virtual experiments. It provides device drivers and various Application Programming Interfaces (API's) in C and Python together with hardware interfacing, communication and vision libraries.
 
 The *Quanser SDK for Windows* supports the following Quanser devices and data acquisition cards:
 - [Quanser Qube-Servo 3](https://www.quanser.com/products/qube-servo-3/)
