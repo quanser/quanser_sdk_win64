@@ -11,6 +11,15 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ### Fixed
 
+## [24.0.4498] - 2024-04-16
+### Added
+- Support for the following device:
+    - Quanser QArm Mini 
+
+### Changed
+
+### Fixed
+
 ## [4.3.4459] - 2024-03-11
 ### Added
 - Initial release of *Quanser SDK for Windows*
