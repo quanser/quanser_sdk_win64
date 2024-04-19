@@ -13,7 +13,7 @@ The *Quanser SDK for Windows* supports the following Quanser devices and data ac
 
 - [Quanser Q2-USB](https://www.quanser.com/products/q2-usb-data-acquisition-device/)
 - [Quanser Q8-USB](https://www.quanser.com/products/q8-usb-data-acquisition-device/)
-- Quanser QPIDe
+- [Quanser QPIDe](https://www.quanser.com/products/qpide-data-acquisition-device/)
 
 
 
