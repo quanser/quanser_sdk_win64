@@ -11,14 +11,27 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ### Fixed
 
+
+## [24.1.4682] - 2024-10-17
+### Added
+- Support for the following device:
+    - National Instruments PCIe-6320
+
+### Changed
+
+### Fixed
+
+
 ## [24.0.4498] - 2024-04-16
 ### Added
 - Support for the following device:
     - Quanser QArm Mini 
 
 ### Changed
+- The Quanser Qube-Servo 3 board has updated default board specific options values for deadband_compensation, min_diode_compensation, and max_diode_compensation to better linearize the dynamic response of the device.
 
 ### Fixed
+
 
 ## [4.3.4459] - 2024-03-11
 ### Added
