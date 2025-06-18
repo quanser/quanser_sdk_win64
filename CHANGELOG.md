@@ -12,9 +12,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ### Fixed
 
 
-## [25.0.4908] - 2025-06-06
+## [25.0.4925] - 2025-06-17
 ### Added
-- In the Quanser Devices Python API, added keyboard classes
+- In the Quanser Devices Python API, added Keyboard classes
 
 ### Changed
 
