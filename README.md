@@ -10,7 +10,7 @@ The *Quanser SDK for Windows* supports the following Quanser devices and data ac
 - [Quanser Aero 2](https://www.quanser.com/products/aero-2/)
 - [Quanser AERO](https://www.quanser.com/products/quanser-aero/)
 - [Quanser QArm](https://www.quanser.com/products/qarm/)
-- Quanser QArm Mini
+- [Quanser QArm Mini](https://www.quanser.com/products/qarm-mini/)
 - [Quanser Q2-USB](https://www.quanser.com/products/q2-usb-data-acquisition-device/)
 - [Quanser Q8-USB](https://www.quanser.com/products/q8-usb-data-acquisition-device/)
 - [Quanser QPIDe](https://www.quanser.com/products/qpide-data-acquisition-device/)

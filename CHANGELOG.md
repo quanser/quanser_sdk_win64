@@ -12,6 +12,16 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ### Fixed
 
 
+## [25.0.4908] - 2025-06-06
+### Added
+- In the Quanser Devices Python API, added keyboard classes
+
+### Changed
+
+### Fixed
+- Support for Quanser Qube-Servo 3
+
+
 ## [24.1.4682] - 2024-10-17
 ### Added
 - Support for the following device:
