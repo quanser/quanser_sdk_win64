@@ -12,6 +12,15 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ### Fixed
 
 
+## [25.0.4981] - 2025-08-12
+### Added
+
+### Changed
+
+### Fixed
+- In the Quanser Devices Python API, restored importing the sys library
+
+
 ## [25.0.4925] - 2025-06-17
 ### Added
 - In the Quanser Devices Python API, added Keyboard classes
