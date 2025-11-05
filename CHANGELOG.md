@@ -15,7 +15,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## [25.1.5062] - 2025-11-01
 ### Added
 - Support for the following device:
-    - Quanser Mechatronic Actuators Board 
+    - Quanser Mechatronic Actuators Trainer 
 
 ### Changed
 
