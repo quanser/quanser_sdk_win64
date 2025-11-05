@@ -12,6 +12,16 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ### Fixed
 
 
+## [25.1.5062] - 2025-11-01
+### Added
+- Support for the following device:
+    - Quanser Mechatronic Actuators Board 
+
+### Changed
+
+### Fixed
+
+
 ## [25.0.4981] - 2025-08-12
 ### Added
 
