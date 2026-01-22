@@ -12,6 +12,17 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ### Fixed
 
 
+## [26.0.5144] - 2026-01-21
+### Added
+- Support for the following device:
+    - Quanser Mechatronic Sensors Trainer 
+
+### Changed
+- If using Quanser SDK with QLabs 2.24, you must install QLabs before installing Quanser SDK.
+
+### Fixed
+
+
 ## [25.1.5062] - 2025-11-01
 ### Added
 - Support for the following device:
