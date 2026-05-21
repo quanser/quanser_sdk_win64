@@ -15,13 +15,13 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ### Added
 - Support for the following device:
     - CubeSat CPP
-- Introduce a quanser.hardware.gpio wrapper around the Quanser HIL API to make porting pre-existing code using Rpi.GPIO or PyPi gpio library easier.
-- A new quanser.communications.i2cpy wrapper around the Quanser Stream API to make porting pre-existing code using PyPi i2cpy library easier.
-- A new quanser.communications.spidev wrapper around the Quanser Stream API to make porting pre-existing code using PyPi SpiDev library easier.
-- A new I2C integer property for the I2C protocol, STREAM_PROPERTY_ADDRESS, that allows the slave I2C address to be changed after opening the URI.
-- Most SPI drivers were enhanced to allow baud rate and word length to be changed via stream properties to make it easier to control multiple devices using a single stream.
+- New quanser.hardware.gpio wrapper around the Quanser HIL API to make porting pre-existing code using Rpi.GPIO or PyPi gpio library easier.
+- New quanser.communications.i2cpy wrapper around the Quanser Stream API to make porting pre-existing code using PyPi i2cpy library easier.
+- New quanser.communications.spidev wrapper around the Quanser Stream API to make porting pre-existing code using PyPi SpiDev library easier.
+- New I2C integer property for the I2C protocol, STREAM_PROPERTY_ADDRESS, that allows the slave I2C address to be changed after opening the URI.
 
 ### Changed
+- Most SPI drivers were enhanced to allow baud rate and word length to be changed via stream properties to make it easier to control multiple devices using a single stream.
 
 ### Fixed
 

@@ -4,7 +4,7 @@ This repository contains the *Quanser SDK for Windows* installer, aimed at the 6
 
 The [Quanser SDK](https://github.com/quanser/quanser_sdk) facilitates application software development using Quanser physical hardware as well as virtual experiments ([Quanser Interactive Labs](https://www.quanser.com/products/quanser-interactive-labs/)). It provides device drivers and various Application Programming Interfaces (API's) in C and Python together with hardware interfacing and communication libraries.
 
-The *Quanser SDK for Windows* supports the following Quanser devices and data acquisition cards:
+The *Quanser SDK for Windows* supports the following Quanser hardware devices and data acquisition cards:
 - [Quanser Mechatronic Sensors Trainer](https://www.quanser.com/products/mechatronic-sensors-trainer/)
 - [Quanser Mechatronic Actuators Trainer](https://www.quanser.com/products/mechatronic-actuators-trainer/)
 - [Quanser Qube-Servo 3](https://www.quanser.com/products/qube-servo-3/)
@@ -17,7 +17,15 @@ The *Quanser SDK for Windows* supports the following Quanser devices and data ac
 - [Quanser Q8-USB](https://www.quanser.com/products/q8-usb-data-acquisition-device/)
 - [Quanser QPIDe](https://www.quanser.com/products/qpide-data-acquisition-device/)
 
-
+The *Quanser SDK for Windows* also supports the following Quanser Interactive Labs (QLabs) virtual devices:
+- [QLabs Virtual Qube-Servo 3](https://www.quanser.com/products/qlabs-virtual-qube-servo-3/)
+- [QLabs Virtual QUBE-Servo 2](https://www.quanser.com/products/qlabs-virtual-qube-servo-2)
+- [QLabs Virtual Aero 2](https://www.quanser.com/products/qlabs-virtual-aero-2/)
+- [QLabs Virtual QArm](https://www.quanser.com/products/qlabs-virtual-qarm/)
+- [QLabs Virtual Coupled Tanks](https://www.quanser.com/products/qlabs-virtual-coupled-tanks/)
+- [QLabs Virtual QBot Platform](https://www.quanser.com/products/qlabs-virtual-qbot-platform/)
+- [QLabs Virtual QCar](https://www.quanser.com/products/qlabs-virtual-qcar/)
+- [QLabs Virtual QDrone 2](https://www.quanser.com/products/qlabs-virtual-qdrone-2/)
 
 Currently supported Microsoft Windows systems include 64-bit Windows 10 and Windows 11 running on any x64-compatible CPU (e.g., PC).
 
