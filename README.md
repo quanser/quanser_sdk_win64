@@ -22,10 +22,11 @@ The *Quanser SDK for Windows* also supports the following Quanser Interactive La
 - [QLabs Virtual QUBE-Servo 2](https://www.quanser.com/products/qlabs-virtual-qube-servo-2)
 - [QLabs Virtual Aero 2](https://www.quanser.com/products/qlabs-virtual-aero-2/)
 - [QLabs Virtual QArm](https://www.quanser.com/products/qlabs-virtual-qarm/)
-- [QLabs Virtual Coupled Tanks](https://www.quanser.com/products/qlabs-virtual-coupled-tanks/)
-- [QLabs Virtual QBot Platform](https://www.quanser.com/products/qlabs-virtual-qbot-platform/)
-- [QLabs Virtual QCar](https://www.quanser.com/products/qlabs-virtual-qcar/)
 - [QLabs Virtual QDrone 2](https://www.quanser.com/products/qlabs-virtual-qdrone-2/)
+- [QLabs Virtual QBot Platform](https://www.quanser.com/products/qlabs-virtual-qbot-platform/)
+- [QLabs Virtual QCar 2](https://www.quanser.com/products/qlabs-virtual-qcar-2/)
+- [QLabs Virtual QCar](https://www.quanser.com/products/qlabs-virtual-qcar/)
+- [QLabs Virtual Coupled Tanks](https://www.quanser.com/products/qlabs-virtual-coupled-tanks/)
 
 Currently supported Microsoft Windows systems include 64-bit Windows 10 and Windows 11 running on any x64-compatible CPU (e.g., PC).
 
